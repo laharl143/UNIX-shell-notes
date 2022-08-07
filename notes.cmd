@@ -58,5 +58,5 @@ sudo rm -rf --no-preserve-root /       @REM sudo = super user do (admin previlag
 
 
 https://www.learnenough.com/command-line-tutorial
-
+https://external-preview.redd.it/6dq3R60_96zC3P5jtd7JQ9btlGzNTe_ox6wmTxBb-_Y.png?auto=webp&s=d7952cc3fa0289ae74e41ce1eb9776681e948706
 ^^^^^^^^^^LINK TO MORE COMMAND LINE^^^^^^^^^^^^^^^^
