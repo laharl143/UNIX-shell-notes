@@ -78,13 +78,13 @@ once you see that angle bracket, you know you are inside the REPL
 
 examples:
 
-inpute:>console.log("Hey, there")
+input:>console.log("Hey, there")
 output: Hey, there!
 
-inpute:> 3+5
+input:> 3+5
 output: 8
 
-inpute:> "angela " + " yu"
+input:> "angela " + " yu"
 output: 'angela yu'
 
 tip!: you can type a partial text then click "tab" on the keyboard twice to give you recommandation on a command
@@ -99,7 +99,11 @@ hit (CTRL + C) twice
 after you exit, use "clear" to delete all text in the command line. Note: you CAN'T use the "clear" command inside the REPL.
 
 
+//////////////////////////////////////////////////////////////////////////
+NPM package manager
 
+Common commands:
 
+npm init = to initialize NPM
 
 
