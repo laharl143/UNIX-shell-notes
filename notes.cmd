@@ -60,3 +60,46 @@ sudo rm -rf --no-preserve-root /       @REM sudo = super user do (admin previlag
 https://www.learnenough.com/command-line-tutorial
 https://external-preview.redd.it/6dq3R60_96zC3P5jtd7JQ9btlGzNTe_ox6wmTxBb-_Y.png?auto=webp&s=d7952cc3fa0289ae74e41ce1eb9776681e948706
 ^^^^^^^^^^LINK TO MORE COMMAND LINE^^^^^^^^^^^^^^^^
+
+
+//////////////////////////////////////////////////////////////////////////
+What is Node REPL?
+Read 
+Evaluation
+Print
+Loop
+
+-it basically lets you execute code in bit-sized chunks in command line
+
+to access it, all you need to do is to write the command "node" in the command line and hit enter
+and this will be the output ">"
+
+once you see that angle bracket, you know you are inside the REPL
+
+examples:
+
+inpute:>console.log("Hey, there")
+output: Hey, there!
+
+inpute:> 3+5
+output: 8
+
+inpute:> "angela " + " yu"
+output: 'angela yu'
+
+tip!: you can type a partial text then click "tab" on the keyboard twice to give you recommandation on a command
+
+this is how to exit the node:
+> .exit
+
+or 
+
+hit (CTRL + C) twice
+
+after you exit, use "clear" to delete all text in the command line. Note: you CAN'T use the "clear" command inside the REPL.
+
+
+
+
+
+
