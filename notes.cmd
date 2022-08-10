@@ -106,4 +106,18 @@ Common commands:
 
 npm init = to initialize NPM
 
+then you can go here to search for NPM:     https://www.npmjs.com/
 
+/////////////////////////////////HOW TO USE "https://www.npmjs.com/"/////////////////////////////////////
+
+Step 1: input in hyper,  $ npm install supervillains
+
+Step 2: const supervillains = require('supervillains');                    //input in index.js
+
+        const mySuperVillains = supervillains.random();
+
+        console.log(mySuperVillains);
+        
+Step 3: run, $ node index.js in hyper
+
+Output: Darth Vadar, Doctor Sivanna, Holiday, etc.
